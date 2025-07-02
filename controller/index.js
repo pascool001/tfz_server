@@ -11,5 +11,6 @@ module.exports = {
     ProfilCtrl: require("./Profil.controller"),
     SpmCtrl: require("./Spm.controller"),
     WalletCtrl: require("./wallet.controller"),
-    WalletTransferPricingCtrl: require("./walletTransferPricing.controller")
+    WalletTransferPricingCtrl: require("./walletTransferPricing.controller"),
+    TransferPricingCtrl: require("./TransferPricing.controller"),
 }

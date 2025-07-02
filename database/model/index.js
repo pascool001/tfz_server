@@ -11,5 +11,6 @@ module.exports = {
     ProfilModel: require('./profil.model.js'),
     SpmModel: require('./spm.model.js'),
     WalletModel: require('./wallet.model.js'),
-    WalletTransferPricingModel: require('./wallet-Transf-Pricing.model.js')
+    WalletTransferPricingModel: require('./wallet-Transf-Pricing.model.js'),
+    TransPricingModel: require('./Transfer-Pricing.model.js')
 }

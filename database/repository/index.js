@@ -11,4 +11,5 @@ module.exports = {
     ParamsRepo: require('./params'),
     WalletRepo: require('./wallet'),
     WalletTransferPricingRepo: require('./walletTransferPricing'),
+    TransferPricingRepo: require('./TransferPricing')
 }
